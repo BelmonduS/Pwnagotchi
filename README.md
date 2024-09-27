@@ -10,7 +10,12 @@ This extensive ocumentation contains all the steps to create the Pwnagotchi with
 - install hashcat
 - 
 
+## BOM - Bill of material
+
+
+
+
 ## Installing 
 
-1. Download Pwnagotchi image
-2. Create the SD card [fallow this link](./docs/sd/README.md)
+1. Download Pwnagotchi image [follow this link](./docs/[download_image](docsdownload_image/README.md)
+2. Create the SD card [follow this link](./docs/sd/README.md)
