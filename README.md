@@ -12,8 +12,7 @@ This extensive ocumentation contains all the steps to create the Pwnagotchi with
 
 ## BOM - Bill of material
 
-
-
+As we need some hardware to play with [follow this link](./docs/hardware/README.md)
 
 ## Installing 
 
