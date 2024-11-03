@@ -14,7 +14,7 @@ This extensive ocumentation contains all the steps to create the Pwnagotchi with
 - install hashcat
 - 
 
-## BOM - Bill of material
+## BOM - Bill Of Material
 
 As we need some hardware to play with [follow this link](./docs/hardware/README.md)
 
@@ -25,3 +25,4 @@ As we need some hardware to play with [follow this link](./docs/hardware/README.
 3. Insert this SD card to pawnagotchi.
 4. connect usb cable to your computer and insert to the second micro usb port for the data ![description of device](./docs/hardware/img/pngwing_describe.png)
 5. install the drivers for the connection (only first time) [follow this link](./docs/windows_usb_drivers/README.md)
+6. 
